@@ -1,0 +1,8 @@
+/**
+ * CSS TO WIDGET
+ */
+.btn-danger {
+    border-color: #af0505 !important;
+    background-color: #af0505 !important;
+    color: white !important;
+}
